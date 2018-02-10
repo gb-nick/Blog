@@ -1,3 +1,3 @@
 # Blog 
 ***
-### 1. [Android](https://github.com/gb-nick/Blog/tree/master/Android)
+### 1. [Android](https://gb-nick.github.io/Blog/Android)
