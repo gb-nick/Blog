@@ -1,4 +1,4 @@
-# [Android Zone](https://gb-nick.github.io/Blog/Android)
+# Android Zone
 ***
 ### [1）Android Studio 3.0安装教程](https://www.jianshu.com/p/9e7003242894)
 ### [2）Android Studio 3.0正式版填坑之路](https://www.jianshu.com/p/9b25087a5d7d)
