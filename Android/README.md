@@ -1,7 +1,6 @@
 # Android Zone
 ***
 ### [1）Android开发JDK安装及环境变量配置](https://www.jianshu.com/p/03a904825ae5)
-<hr>
 ### [2）Android Studio 3.0安装教程](https://www.jianshu.com/p/9e7003242894)
 ### [3）Android Studio 3.0正式版填坑之路](https://www.jianshu.com/p/9b25087a5d7d)
 ### [4）Android Studio实用配置](https://www.jianshu.com/p/6c92287ce27a)
